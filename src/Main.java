@@ -16,7 +16,7 @@ public class Main {
     }
 
     public static void mostrarResultado(int[] arreglo) {
-        int resultado = productoAdyacente(arreglo);  // Ajuste para llamar al método correctamente
+        int resultado = productoAdyacente(arreglo);
         System.out.println("El producto adyacente es: " + resultado);
     }
 
